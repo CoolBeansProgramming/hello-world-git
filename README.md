@@ -1,3 +1,3 @@
 # hello-world-git
 
-a hello world project with git 
+a hello world project using git 

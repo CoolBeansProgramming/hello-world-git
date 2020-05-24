@@ -8,7 +8,7 @@ A hello world project using git
 Another paragraph 
 
 ```
-<p> This is some text </p>
+<p>This is some text</p>
 ```
 
 1. This
@@ -18,7 +18,5 @@ Another paragraph
 
 * Bullet 
 * points
-
-https://github.com/CoolBeansProgramming
 
 [Cool Beans Programming](https://github.com/CoolBeansProgramming)

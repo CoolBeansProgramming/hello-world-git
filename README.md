@@ -8,7 +8,7 @@ A hello world project using git
 Another paragraph 
 
 ```
-<p>This is some text</p>
+This is some text.
 ```
 
 1. This
